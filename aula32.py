@@ -1,6 +1,6 @@
 """
 
-Reptições 
+Repetições 
 while (enquanto)
 irá executar uma ação enquanto uma condição for verdadeira 
 loop infinito > quando não tem condição
